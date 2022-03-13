@@ -1,4 +1,4 @@
-###### Page under work. Most links don't work.
+###### Page under work. Some links don't work.
 # Shreyanshnarwe1's Lair
 
 Find all my projects at one site !

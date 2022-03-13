@@ -7,7 +7,7 @@ Find all my projects at one site !
 ###### A race against AIs
 
 I am a speedrunner and I also make game modifications !
-Click [here](shreyanshnarwe1.github.io/projects) for my project directory, and [here](shreyanshnarwe1.github.io/tutorials) for the tutorials I have written.
+Click [here](shreyanshnarwe1.github.io/projects) for my project directory, and [here](https://shreyanshnarwe1.github.io/tutorials) for the tutorials I have written.
 
 ## My Projects -
 #### [SuperDropOut](https://shreyanshnarwe1.github.io/s3air/mods/charsprites/superdropout)

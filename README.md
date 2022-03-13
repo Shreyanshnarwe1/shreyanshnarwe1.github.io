@@ -1,7 +1,4 @@
 ###### Page under work. Some links don't work.
-# Shreyanshnarwe1's Lair
-
-Find all my projects at one site !
 
 ![Sonic 3 AIR - A race againsts AIs](https://user-images.githubusercontent.com/80510430/158044731-f21c101f-1267-4ac3-bbd2-07f91fce993e.png)
 ###### A race against AIs

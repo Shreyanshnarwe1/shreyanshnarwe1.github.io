@@ -6,4 +6,4 @@ permalink: /tutorials/custom_morecontrol
 
 ![More Control Mod In-Game](https://i.imgur.com/JBWFqib.png)
 
-###### Page under work
+###### Page under work.

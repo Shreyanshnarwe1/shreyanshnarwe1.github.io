@@ -4,7 +4,7 @@ permalink: /tutorials/
 
 #### Links that redirect to the tutorials !
 
-#### [How to Customize the More Control Sonic3AIR Mod](https://shreyanshnarwe1.github.io/tutorials/custom_morecontrol)
+#### [How to Customize the More Control Sonic3AIR Mod](https://shreyanshnarwe1.github.io/tutorials/custom_morecontrol/)
 
 #### [How to Set Up Sonic 3 AIR and install mods on PC](https://shreyanshnarwe1.github.io/tutorials/setup_s3air_pc)
 

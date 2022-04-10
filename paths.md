@@ -1,5 +1,4 @@
 layout: page
-title: "List of Valids Paths"
 permalink: /paths/
 
 # List of all valid paths

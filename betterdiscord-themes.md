@@ -1,4 +1,6 @@
-layout: page title: "BetterDiscord Themes" permalink: /bdthemes/
+layout: page
+title: "BetterDiscord Themes"
+permalink: /bdthemes/
 
 # betterdiscord-themes
 Searching for and adding custom images to BetterDiscord themes so you don't have to. Base Theme used is originally from [ClearVision Team](https://github.com/ClearVision).

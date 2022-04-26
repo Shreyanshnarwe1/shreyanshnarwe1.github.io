@@ -1,6 +1,8 @@
+---
 layout: page
 title: "Youtube Uploads"
 permalink: /uploads/
+---
 
 ## Mighty+ Angel Island 1 50 Rings Speedrun on Sonic 3 A.I.R
 

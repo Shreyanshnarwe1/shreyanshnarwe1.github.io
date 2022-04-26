@@ -1,6 +1,4 @@
 ---
-layout: page
-theme: jekyll-theme-cayman
 title: "Youtube Uploads"
 permalink: /uploads/
 ---

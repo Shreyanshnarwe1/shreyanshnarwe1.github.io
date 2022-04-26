@@ -1,6 +1,9 @@
+---
+title: "BetterDiscord Backgrounds"
 permalink: /bdthemes/
+---
 
-# betterdiscord-themes
+# Betterdiscord-themes
 Searching for and adding custom images to BetterDiscord themes so you don't have to. Base Theme used is originally from [ClearVision Team](https://github.com/ClearVision).
 
 ## Edge 22-04

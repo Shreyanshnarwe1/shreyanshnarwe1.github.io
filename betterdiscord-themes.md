@@ -1,5 +1,3 @@
-layout: page
-title: "BetterDiscord Themes"
 permalink: /bdthemes/
 
 # betterdiscord-themes

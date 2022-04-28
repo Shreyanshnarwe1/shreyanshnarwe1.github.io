@@ -1,6 +1,8 @@
+---
 layout: page
 title: "Valid Paths"
 permalink: /paths/
+---
 
 # List of all valid paths
 

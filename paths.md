@@ -1,5 +1,4 @@
 ---
-layout: page
 title: "Valid Paths"
 permalink: /paths/
 ---

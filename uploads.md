@@ -3,16 +3,17 @@ title: "Youtube Uploads"
 permalink: /uploads/
 ---
 
-## Mighty+ Angel Island 1 50 Rings Speedrun on Sonic 3 A.I.R
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ydGiziayTuQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## How to Setup and Mod Sonic 1 Forever
+<iframe width="560" height="315" src="https://www.youtube.com/embed/G0UojXxavTE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## Sonic 3 A.I.R : 50 Rings Speedrun at Angel Island 1
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j-3sxRBFsxM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## [TAS] Beating (or getting beaten from) the Ender Dragon
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4p08SJm1tIg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## The Shining Pain....
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X6JfVWpU81E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Bridge Goes Wrong
+<iframe ERROR>
 
-## Super Mario World ! World 1
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iwDqyxgEXqg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
